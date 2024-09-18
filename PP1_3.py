@@ -1,7 +1,7 @@
 def q1():
   print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n") 
-  print("* * * * * \n*       * \n*       * \n*       * \n* * * * * \n")
-  print("* * * * * * \n *       * \n  *     * \n   *   *    \n    * * \n     * \n")
+  print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
+  print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   #makes shapes in one line using the newline character
 
 def q2():
