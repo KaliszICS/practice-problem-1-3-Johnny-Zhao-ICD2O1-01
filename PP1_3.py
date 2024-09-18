@@ -1,6 +1,13 @@
+''' 
+    Practice Questions - Using Strings
+    Author: Johnny Zhao 
+    Date Created: September 17th, 2024 
+    Date Last Modified: September 18th, 2024 
+'''
+
 def q1():
   print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n") 
-  print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
+  print("* * * * *\n*       *\n*       *\n*       *n* * * * *\n")
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   #makes shapes in one line using the newline character
 
